@@ -25,7 +25,8 @@ Este projeto é um fluxo completo de automação criado com N8N que simula um at
 Explorar na prática projetos com automação de processos utilizando APIs REST, integração com IA e manipulação de dados via N8N, de forma a simular um fluxo completo de atendimento inteligente e humanizado.
 
 ## 📸 Screenshots
-*
+
+![Fluxo no N8N](./fluxo-n8n.png)
 
 ## 📂 Estrutura de arquivos
 - `.json` do workflow exportado
